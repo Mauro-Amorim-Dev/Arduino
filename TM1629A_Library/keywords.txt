@@ -1,0 +1,13 @@
+TM1629A_h	   KEYWORD1
+TM1629A		   KEYWORD2
+getCharMap	   KEYWORD2
+sendCommand    KEYWORD2
+sendData       KEYWORD2
+clearDisplay   KEYWORD2
+printString    KEYWORD2
+blinkChar      KEYWORD2
+typeWriter     KEYWORD2
+scrollPingPong KEYWORD2
+fadeText       KEYWORD2
+
+
